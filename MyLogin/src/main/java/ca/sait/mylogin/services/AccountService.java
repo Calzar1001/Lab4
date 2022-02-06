@@ -4,7 +4,7 @@ import ca.sait.mylogin.models.User;
 
 /**
  *
- * @author calza
+ * @author Callum Beckford
  */
 public class AccountService {
 

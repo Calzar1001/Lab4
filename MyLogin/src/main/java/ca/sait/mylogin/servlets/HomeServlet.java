@@ -10,7 +10,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author calza
+ * @author Callum Beckford
  */
 public class HomeServlet extends HttpServlet {
 
