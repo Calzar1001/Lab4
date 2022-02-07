@@ -5,7 +5,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author calza
+ * @author Callum Beckford
  */
 public class User implements Serializable {
     private String username;
